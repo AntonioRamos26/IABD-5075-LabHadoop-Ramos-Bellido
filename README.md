@@ -2,7 +2,7 @@
 
 **Despliegue de un clúster multi-nodo Apache Hadoop con Docker, auditoría física en HDFS y simulación de tolerancia a fallos**
 
-Laboratorio (AEE) · Módulo 5074/5075 · Máster en Inteligencia Artificial y Big Data
+Laboratorio (AEE) · Módulo 5075 · Máster en Inteligencia Artificial y Big Data
 
 **Autor:** Antonio Ramos Bellido
 
